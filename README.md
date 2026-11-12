@@ -70,10 +70,4 @@ A modern, responsive multi-page website for a business consulting firm specializ
 
 ---
 
-## How to Run My Projects Locally
-
-### Prerequisites
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-- Visual Studio 2022 (or VS Code)
-- Git
 
