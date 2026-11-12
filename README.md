@@ -41,7 +41,6 @@ A modern, responsive multi-page website for a business consulting firm specializ
 
 ## Connect With Me
 
-- LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle) *(Update this with your real profile)*
 - Email: [lehlogonolomoshoeu223@gmail.com](mailto:lehlogonolomoshoeu223@gmail.com)
 
 ---
